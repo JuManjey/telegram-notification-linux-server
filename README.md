@@ -1,1 +1,1 @@
-# telegram-notification-lunux-server
+# telegram-notification-linux-server
